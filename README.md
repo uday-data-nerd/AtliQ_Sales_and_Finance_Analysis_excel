@@ -36,6 +36,8 @@ This project analyzes **sales and finance data** for AtliQ Hardware, a company t
   - Enables teams to track if sales are meeting targets set by the finance and strategy departments.
   - Assists in understanding market trends, peak seasons, and setting competitive goals.
 
+![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/Sales_Analysis_Report.jpg)
+
 ## Financial Analysis
 
 ### Functional Insights
@@ -44,6 +46,8 @@ This project analyzes **sales and finance data** for AtliQ Hardware, a company t
 - **Finance Team’s Role**:
   - Works closely with sales, marketing, and strategy to set realistic targets and manage cash flows.
   - Uses P&L statements to support key financial decisions and ensure competitive standing.
+
+![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/Financial_Analysis_Report.jpg)
 
 
 ## Technical Skills Demonstrated
