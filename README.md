@@ -1,5 +1,7 @@
 # AtliQ Hardware Sales and Finance Analysis
 
+![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/AtliQ.jpeg)
+
 ## Overview
 
 This project analyzes **sales and finance data** for AtliQ Hardware, a company that sells PC accessories (like desktops, mouse and printers) through multiple channels: **brick-and-mortar retailers** (e.g., Croma, Best Buy), **e-commerce platforms** (e.g., Amazon, Flipkart), and **direct stores** (AtliQ e-store and AtliQ Exclusive). This analysis includes insights from **Customer Performance Reports** and **Market vs Target Analysis** to support strategic decision-making in sales and finance.
@@ -16,8 +18,7 @@ This project analyzes **sales and finance data** for AtliQ Hardware, a company t
 - **Fiscal Year**: September through August.
 - **Objective**: Generate insightful reports on **Sales Analytics** and **Financial Analytics**.
 
-![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/Data-Modeling.jpg
-)
+![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/Data-Modeling.jpg)
 
 ## Reports
 
