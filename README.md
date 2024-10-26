@@ -16,6 +16,9 @@ This project analyzes **sales and finance data** for AtliQ Hardware, a company t
 - **Fiscal Year**: September through August.
 - **Objective**: Generate insightful reports on **Sales Analytics** and **Financial Analytics**.
 
+![ERD](https://github.com/uday-data-nerd/AtliQ_Sales_and_Finance_Analysis_excel/blob/main/Data-Modeling.jpg
+)
+
 ## Reports
 
 ### 1. Customer Performance Report
